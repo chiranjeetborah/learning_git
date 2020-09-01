@@ -1,2 +1,3 @@
 I am learning git.
 The first stage is completed.
+I am enjoying Git .
