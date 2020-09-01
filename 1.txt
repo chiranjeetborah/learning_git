@@ -1,2 +1,2 @@
 I am learning git.
-The first stage is completed
+The first stage is completed.
